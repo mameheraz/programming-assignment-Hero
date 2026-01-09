@@ -360,3 +360,7 @@ nav .button button{
     height: 60px;
     background-size: cover;
 }
+
+.hero-main .paragraph img{
+    margin-bottom: -3px;
+}
