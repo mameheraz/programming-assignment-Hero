@@ -49,6 +49,9 @@ nav .logo img{
     line-height: 1;
     text-align: center;
 }
+.button-design:hover{
+    background-color: #19b65a;
+}
 .button-design-2{
     background-color: transparent;
     padding: 12px 16px;
@@ -58,6 +61,13 @@ nav .logo img{
     font-size: 16px;
     font-weight: 600;
     margin-left: 10px;
+}
+
+.button-design-2:hover{
+    background-color:#30B868;
+}
+.button button:hover{
+    background-color: #30B868;
 }
 .button-container button img{
     width: 20px;
